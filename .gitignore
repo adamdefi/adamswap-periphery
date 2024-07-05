@@ -1,0 +1,8 @@
+node_modules/
+artifacts/
+artifacts-zk/
+.env
+cache-zk/
+cache/
+typechain-types/
+yarn-error.log
